@@ -1,0 +1,43 @@
+#links{
+  color: blue;
+}
+.center{
+  text-align:center;
+  font-family: Helvetica;
+}
+.backround1 {
+  font-family: Helvetica;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  color: white;}
+  .backround1 h1{
+    font-size: 70px;
+    font-weight: bold;
+  }
+  .backround1 p{
+    font-size: 18px
+  }
+  #process{
+   font-family: Helvetica;
+   font-size: 32px;
+   font-weight: bold;}
+    #IUE{
+     font-family: Helvetica;
+     font-size: 23px;
+     font-weight: bold;
+    }
+    #IEUP{
+      font-family: Helvetica;
+      font-size: 14px;
+    }
+    #DINY{
+      font-family: Helvetica;
+      font-size: 23px;
+      font-weight: bold;
+      color: white;
+    }
+    #grey{
+      font-family: Helvetica;
+      font-size: 11px;
+      background-color: dimgray;
+      text-align: left;
+    }
